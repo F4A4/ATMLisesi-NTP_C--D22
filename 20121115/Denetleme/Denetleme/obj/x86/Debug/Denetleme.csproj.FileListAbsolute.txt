@@ -1,0 +1,8 @@
+C:\Users\ogr\Desktop\Denetleme\Denetleme\bin\Debug\Denetleme.exe
+C:\Users\ogr\Desktop\Denetleme\Denetleme\bin\Debug\Denetleme.pdb
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.Form1.resources
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.Properties.Resources.resources
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.csproj.GenerateResource.Cache
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.exe
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.pdb
+C:\Users\ogr\Desktop\Denetleme\Denetleme\obj\x86\Debug\Denetleme.csprojResolveAssemblyReference.cache

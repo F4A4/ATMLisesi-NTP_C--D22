@@ -1,0 +1,9 @@
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\bin\Debug\Hatalar.exe
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\bin\Debug\Hatalar.pdb
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\Hatalar.Form1.resources
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\Hatalar.Properties.Resources.resources
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\Hatalar.exe
+C:\Users\MO-04\Desktop\DEYİM\Hatalar\obj\x86\Debug\Hatalar.pdb
